@@ -1,0 +1,509 @@
+,OfficialId,JerseyNum,FirstName,LastName,LastNameSuffix,Position,PositionLongName,NAbbrev,Height,Weight,DOB,POB,Hometown,Country,CountryCode,Nickname,InjuryStatus,InjuryDesc,Headshot,Initials,TrackingId,TeamId,Affiliate,CloudHeadshotURL,SquadId,College,LeagueStatus
+0,20017,42,Otaro,Alaka,,LB,,O. Alaka,6030,239,1996-05-18,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Otaro_Alaka_20017.png,,Texas A&M,Active
+1,20041,14,Kevin,Anderson,,QB,,K. Anderson,6007,208,1994-09-14,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Kevin_Anderson_20041.png,,Fordham,Active
+2,20050,19,Brandon,Arconado,,WR,,B. Arconado,5116,192,1997-08-08,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brandon_Arconado_20050.png,,Washington St,Active
+3,20089,72,T.J.,Barnes,,DL,,T. Barnes,6062,369,1990-06-14,,,,,,,,,,,1,,,,Georgia Tech,Active
+4,20099,41,De Vante,Bausby,,DB,,D. Bausby,6005,177,1993-01-15,,,,,,,,,,,1,,,,Pittsburg St-Ks,Active
+5,20123,88,Shaun,Beyer,,TE,,S. Beyer,6047,250,1996-11-11,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Shaun_Beyer_20123.png,,Iowa,Active
+6,20212,29,Shakur,Brown,,DB,,S. Brown,5096,185,1999-04-01,,,,,,,,,,,1,,,,Michigan St,Active
+7,20270,22,Jamal,Carter,,DB,,J. Carter,6007,218,1994-04-12,,,,,,,,,,,1,,,,Miami-Fl,Active
+8,20296,45,Will,Clarke,,DL,,W. Clarke,6061,271,1991-05-04,,,,,,,,,,,1,,,,West Virginia,Active
+9,20331,58,Doug,Costin,,DL,,D. Costin,6020,295,1997-10-05,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Doug_Costin_20331.png,,Miami-Oh,Active
+10,20448,15,Alex,Ellis,,TE,,A. Ellis,6044,253,1993-02-10,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Alex_Ellis_20448.png,,Tennessee,Active
+11,20496,64,Brian,Folkerts,,OL,,B. Folkerts,6035,310,1990-01-30,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brian_Folkerts_20496.png,,Washburn,Active
+12,20502,23,Keith,Ford,,RB,,K. Ford,5101,219,,,,,,,,,,,,1,,,,Texas A&M,Active
+13,20589,37,Nasir,Greer,,DB,,N. Greer,6006,209,,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Nasir_Greer_20589.png,,Wake Forest,Reserve List
+14,20654,28,Josh,Hawkins,,DB,,J. Hawkins,5104,189,1993-01-23,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Josh_Hawkins_20654.png,,East Carolina,Active
+15,20693,5,Will,Hill,,DB,,W. Hill,6006,205,1990-03-07,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Will_Hill_20693.png,,Florida,Active
+16,20722,70,Mike,Horton,,OL,,M. Horton,6032,325,1996-10-07,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Mike_Horton_20722.png,,Auburn,Active
+17,20735,56,Cameron,Hunt,,OL,,C. Hunt,6037,293,1994-12-17,,,,,,,,,,,1,,,,Oregon,Active
+18,20889,12,Adrian,Killins,,RB,,A. Killins,5073,162,1998-01-02,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Adrian_Killins_20889.png,,Central Florida,Active
+19,20891,0,Marquette,King,,P,,M. King,6001,192,1988-10-26,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Marquette_King_20891.png,,Fort Valley St,Active
+20,20919,6,Davonte,Lambert,,DL,,D. Lambert,6014,285,1994-06-23,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Davonte_Lambert_20919.png,,Auburn,Active
+21,20931,48,Tomasi,Laulile,,DL,,T. Laulile,6026,291,1995-05-22,,,,,,,,,,,1,,,,Brigham Young,Active
+22,20944,,Jessie,Lemonier,,LB,,J. Lemonier,6016,240,1997-01-31,,,,,,,,,,,1,,,,Liberty,Reserve List
+23,21040,55,Garrett,McGhin,,OL,,G. McGhin,6061,316,1994-10-13,,,,,,,,,,,1,,,,East Carolina,Active
+24,21094,77,George,Moore,,OL,,G. Moore,6056,312,,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/George_Moore_21094.png,,Oregon,Active
+25,21129,3,Flynn,Nagel,,WR,,F. Nagel,5112,188,,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Flynn_Nagel_21129.png,,Northwestern,Reserve List
+26,21142,,Robert,Nelson,,DB,,R. Nelson,5094,163,1990-02-16,,,,,,,,,,,1,,,,Arizona St,Reserve List
+27,21243,9,Drew,Plitt,,QB,,D. Plitt,6022,206,,,,,,,,,,,,1,,,,Ball St,Active
+28,21251,4,Joe,Powell,,DB,,J. Powell,6001,200,1994-02-25,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Joe_Powell_21251.png,,Globe JC,Active
+29,21318,30,Edmond,Robinson,,LB,,E. Robinson,6025,245,1992-02-23,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Edmond_Robinson_21318.png,,Newberry,Active
+30,21359,1,Taylor,Russolino,,K,,T. Russolino,5110,172,1989-05-23,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Taylor_Russolino_21359.png,,Millsaps,Active
+31,21379,36,Colin,Schooler,,LB,,C. Schooler,5116,229,,,,,,,,,,,,1,,,,Texas Tech,Active
+32,21426,17,Jordan,Smallwood,,WR,,J. Smallwood,6010,220,1995-01-18,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jordan_Smallwood_21426.png,,Oklahoma,Active
+33,21479,68,Jake,Stetz,,OL,,J. Stetz,6025,302,1998-05-30,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jake_Stetz_21479.png,,Boise St,Active
+34,21497,11,Jacorey,Sullivan,,WR,,J. Sullivan,6012,212,,,,,,,,,,,,1,,,,Central Michigan,Reserve List
+35,21707,11,Lujuan,Winningham,,WR,,L. Winningham,6030,198,,,,,,,,,,,,1,,,,Central Arkansas,Active
+36,21798,21,Cre'Von,LeBlanc,,DB,,C. LeBlanc,5097,192,1994-07-25,,,,,,,,,,,1,,,,Florida Atlantic,Active
+37,21845,73,Willie,Beavers,,OL,,W. Beavers,6045,321,1993-10-02,,,,,,,,,,,1,,,,Western Michigan,Active
+38,21861,,T.J.,Green,,DB,,T. Green,6024,209,1995-03-15,,,,,,,,,,,1,,,,Clemson,Reserve List
+39,21876,18,Isaac,Nauta,,TE,,I. Nauta,6032,244,1997-05-21,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Isaac_Nauta_21876.png,,Georgia,Reserve List
+40,21884,10,Kyle,Sloter,,QB,,K. Sloter,6046,211,1994-02-07,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Kyle_Sloter_21884.png,,Northern Colorado,Active
+41,21902,,Chad,Williams,,WR,,C. Williams,6005,204,1994-10-19,,,,,,,,,,,1,,,,Grambling,Reserve List
+42,21903,,Dexter,Williams,,RB,,D. Williams,5111,212,1997-01-06,,,,,,,,,,,1,,,,Notre Dame,Reserve List
+43,21906,84,Dominick,Wood-Anderson,,TE,,D. Wood-Anderson,6035,261,,,,,,,,,,,,1,,,,Tennessee,Reserve List
+44,21913,51,Aaron,Adeoye,,DL,,A. Adeoye,6060,260,1993-08-26,,,,,,,,,,,1,,,,Southeast Missouri St,Active
+45,21922,71,Josiah,Coatney,,DL,,J. Coatney,6033,308,1996-01-04,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Josiah_Coatney_21922.png,,Mississippi,Active
+46,21942,,Delonte,Hood,,DB,,D. Hood,5112,192,,,,,,,,,,,,1,,,,Peru St,Reserve List
+47,21959,,Debione,Renfro,,DB,,D. Renfro,6010,198,1999-01-19,,,,,,,,,,,1,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Debione_Renfro_21959.png,,Texas A&M,Reserve List
+48,22000,49,Antonio,Ortiz,,LS,,A. Ortiz,6037,247,,,,,,,,,,,,1,,,,Texas Christian,Active
+49,22010,90,Bruce,Hector,,DL,,B. Hector,6022,299,1994-10-07,,,,,,,,,,,1,,,,South Florida,Active
+50,22014,8,Sean,Modster,,WR,,S. Modster,5106,182,1995-11-13,,,,,,,,,,,1,,,,Boise St,Active
+51,22024,52,Isaiah,Graham-Mobley,,LB,,I. Graham-Mobley,6010,229,,,,,,,,,,,,1,,,,Boston College,Active
+52,22030,80,Sal,Cannella,,TE,,S. Cannella,6045,236,1996-12-02,,,,,,,,,,,1,,,,Auburn,Active
+53,22302,24,Darren,Evans,,DB,,D. Evans,6022,179,,,,,,,,,,,,1,,,,Louisiana St,Active
+54,22305,2,De'Veon,Smith,,RB,,D. Smith,5112,243,1994-11-08,,,,,,,,,,,1,,,,Michigan,Active
+55,22326,81,Nate,Becker,,TE,,N. Becker,6047,258,1996-03-24,,,,,,,,,,,1,,,,Miami-Oh,Active
+56,22363,85,Tyler,Vaughns,,WR,,T. Vaughns,6020,184,1997-06-01,,,,,,,,,,,1,,,,USC,Active
+57,22375,50,Willie,Taylor,,LB,,W. Taylor,6026,246,,,,,,,,,,,,1,,,,Eastern Kentucky,Active
+58,22529,16,Rannell,Hall,,DB,,R. Hall,6010,210,,,,,,,,,,,,1,,,,Central Florida,Active
+59,22675,18,Donald,Payne,,LB,,D. Payne,6000,236,,,,,,,,,,,,1,,,,Stetson,Active
+60,22718,79,Teton,Saltes,,OL,,T. Saltes,6050,305,,,,,,,,,,,,1,,,,New Mexico,Active
+61,22837,81,Kameron,Brown,,WR,,K. Brown,6023,218,,,,,,,,,,,,1,,,,Coastal Carolina,Reserve List
+62,22877,25,Jordan,Miller,,DB,,J. Miller,6007,190,,,,,,,,,,,,1,,,,Washington,Active
+63,22886,53,Darnell,Sankey,,LB,,D. Sankey,6010,246,,,,,,,,,,,,1,,,,Cal St-Sacramento,Active
+64,20029,21,Joshua,Allen,,DB,,J. Allen,5113,204,1996-11-08,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Joshua_Allen_20029.png,,Miami-Oh,Active
+65,20045,41,Jesse,Aniebonam,,DL,,J. Aniebonam,6035,258,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jesse_Aniebonam_20045.png,,Maryland,Reserve List
+66,20053,23,Ryquell,Armstead,,RB,,R. Armstead,5110,230,1996-10-30,,,,,,,,,,,8,,,,Temple,Active
+67,20094,80,Trae,Barry,,LS,,T. Barry,6060,250,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Trae_Barry_20094.png,,Boston College,Active
+68,20133,1,Chris,Blair,,WR,,C. Blair,6020,198,,,,,,,,,,,,8,,,,Alcorn St,Active
+69,20180,29,Kentrell,Brice,,DB,,K. Brice,5110,186,1994-08-11,,,,,,,,,,,8,,,,Louisiana Tech,Active
+70,20189,20,Jamal,Brooks,,LB,,J. Brooks,6010,240,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jamal_Brooks_20189.png,,South Alabama,Active
+71,20201,6,Fadol,Brown,,DL,,F. Brown,6040,216,1993-04-15,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Fadol_Brown_20201.png,,Mississippi,Active
+72,20257,81,K.D.,Cannon,,WR,,K. Cannon,5110,172,1995-11-05,,,,,,,,,,,8,,,,Baylor,Reserve List
+73,20277,,Tyler,Catalina,,OL,,T. Catalina,6035,324,1993-01-24,,,,,,,,,,,8,,,,Georgia,Reserve List
+74,20298,66,Ty,Clary,,OL,,T. Clary,6040,305,,,,,,,,,,,,8,,,,Arkansas,Active
+75,20319,67,Cody,Conway,,OL,,C. Conway,6060,317,1996-07-09,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Cody_Conway_20319.png,,Syracuse,Active
+76,20327,69,Sam,Cooper,,OL,,S. Cooper,6014,305,,,,,,,,,,,,8,,,,Merrimack,Reserve List
+77,20419,2,Eric,Dungey,,QB,,E. Dungey,6040,236,1996-06-12,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Eric_Dungey_20419.png,,Syracuse,Active
+78,20474,92,Jazz,Ferguson,,WR,,J. Ferguson,6045,227,1997-01-12,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jazz_Ferguson_20474.png,,Northwestern St,Reserve List
+79,20480,92,Malik,Fisher,,DL,,M. Fisher,6034,259,1999-01-28,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Malik_Fisher_20480.png,,Villanova,Active
+80,20503,77,Liam,Fornadel,,OL,,L. Fornadel,6040,320,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Liam_Fornadel_20503.png,,James Madison,Active
+81,20618,0,Josh,Hammond,,WR,,J. Hammond,6001,201,1998-07-24,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Josh_Hammond_20618.png,,Florida,Active
+82,20699,57,Anthony,Hines,,LB,,A. Hines,6030,220,,,,,,,,,,,,8,,,,Texas A&M,Active
+83,20766,11,Lucky,Jackson,,WR,,L. Jackson,6000,222,1997-07-17,,,,,,,,,,,8,,,,Western Kentucky,Active
+84,20873,24,Anthoula,Kelly,,DB,,A. Kelly,5090,187,1996-01-28,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Anthoula_Kelly_20873.png,,Fresno St,Active
+85,20951,31,Cameron,Lewis,,DB,,C. Lewis,6003,191,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Cameron_Lewis_20951.png,,Louisiana St,Active
+86,20966,,Greg,Long,,OL,,G. Long,6034,304,,,,,,,,,,,,8,,,,Purdue,Reserve List
+87,20982,51,Michael,Maietti,,OL,,M. Maietti,6010,290,,,,,,,,,,,,8,,,,Missouri,Active
+88,21028,34,Matthew,McCrane,,K,,M. McCrane,5100,175,1994-09-08,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Matthew_Mccrane_21028.png,,Kansas St,Active
+89,21080,48,Andre,Mintze,,LB,,A. Mintze,6030,253,,,,,,,,,,,,8,,,,Vanderbilt,Active
+90,21114,,Parnell,Motley,,DB,,P. Motley,6001,184,1997-10-28,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Parnell_Motley_21114.png,,Oklahoma,Reserve List
+91,21132,98,Dame,Ndiaye,,DL,,D. Ndiaye,6040,260,1992-04-13,,,,,,,,,,,8,,,,Portland St,Reserve List
+92,21133,26,Dejuan,Neal,,DB,,D. Neal,6000,192,1996-08-05,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Dejuan_Neal_21133.png,,Shepherd,Active
+93,21148,5,Reggie,Northrup,,LB,,R. Northrup,6010,220,1993-10-17,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Reggie_Northrup_21148.png,,Florida St,Active
+94,21174,95,Jarrell,Owens,,DL,,J. Owens,6030,280,1994-10-11,,,,,,,,,,,8,,,,Oklahoma St,Active
+95,21182,96,Jacub,Panasiuk,,DL,,J. Panasiuk,6040,241,,,,,,,,,,,,8,,,,Michigan St,Active
+96,21229,28,Artavis,Pierce,,RB,,A. Pierce,5110,215,1996-05-17,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Artavis_Pierce_21229.png,,Oregon St,Active
+97,21278,39,Santos,Ramirez,,DB,,S. Ramirez,6020,207,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Santos_Ramirez_21278.png,,Arkansas,Active
+98,21350,38,Nydair,Rouse,,DB,,N. Rouse,6000,188,1995-07-13,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Nydair_Rouse_21350.png,,West Chester,Active
+99,21360,9,K.J.,Sails,,DB,,K. Sails,5110,178,1997-05-02,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/KJ_Sails_21360.png,,South Florida,Active
+100,21387,90,Niles,Scott,,DL,,N. Scott,6011,326,1995-09-30,,,,,,,,,,,8,,,,Frostburg St,Reserve List
+101,21427,4,Abram,Smith,,RB,,A. Smith,5110,216,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Abram_Smith_21427.png,,Baylor,Active
+102,21482,,Ardarius,Stewart,,WR,,A. Stewart,5111,204,1993-12-08,,,,,,,,,,,8,,,,Alabama,Reserve List
+103,21490,72,T.J.,Storment,,OL,,T. Storment,6070,338,,,,,,,,,,,,8,,,,Texas Tech,Active
+104,21564,91,Tariqious,Tisdale,,DL,,T. Tisdale,6047,285,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Tariqious_Tisdale_21564.png,,Mississippi,Reserve List
+105,21594,90,Markell,Utsey,,DL,,M. Utsey,6040,306,,,,,,,,,,,,8,,,,Arkansas,Reserve List
+106,21621,62,Dwayne,Wallace,,OL,,D. Wallace,6050,310,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Dwayne_Wallace_21621.png,,Kansas,Reserve List
+107,21623,99,Joseph,Wallace,,DL,,J. Wallace,6010,296,,,,,,,,,,,,8,,,,Sam Houston St,Active
+108,21676,,Jordan,Williams,,DL,,J. Williams,6043,291,1999-02-12,,,,,,,,,,,8,,,,Virginia Tech,Reserve List
+109,21685,8,Pooka,Williams,,WR,,P. Williams,5100,164,,,,,,,,,,,,8,,,,Kansas,Active
+110,21711,82,Ethan,Wolf,,TE,,E. Wolf,6060,261,1995-11-07,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Ethan_Wolf_21711.png,,Tennessee,Active
+111,21720,98,Gabe,Wright,,DL,,G. Wright,6026,300,1992-04-03,,,,,,,,,,,8,,,,Auburn,Active
+112,21751,22,Travon,Fuller,,DB,,T. Fuller,6010,180,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Travon_Fuller_21751.png,,Tulsa,Active
+113,21835,19,Daniel,Whelan,,P,,D. Whelan,6060,227,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Daniel_Whelan_21835.png,,Cal-Davis,Active
+114,21864,,Holton,Hill,,DB,,H. Hill,6022,196,1997-03-28,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Holton_Hill_21864.png,,Texas,Reserve List
+115,21888,73,Rod,Taylor,,OL,,R. Taylor,6030,320,,,,,,,,,,,,8,,,,Mississippi,Active
+116,21933,12,Jequez,Ezzard,,WR,,J. Ezzard,5100,202,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jequez_Ezzard_21933.png,,Sam Houston St,Active
+117,21935,27,Ferrod,Gardner,,LB,,F. Gardner,6010,215,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Ferrod_Gardner_21935.png,,Louisiana-Lafayette,Active
+118,21980,78,D'Marcus,Hayes,,OL,,D. Hayes,6000,325,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Dmarcus_Hayes_21980.png,,Georgia,Active
+119,21981,3,Deriq,King,,QB,,D. King,5090,195,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Deriq_King_21981.png,,Miami-Fl,Active
+120,21983,88,Briley,Moore-Mckinney,,TE,,B. Moore-Mckinney,6040,250,,,,,,,,,,,,8,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Briley_Moore-Mckinney_21983.png,,Kansas St,Active
+121,22003,,Kahale,Warring,,TE,,K. Warring,6051,252,1997-03-23,,,,,,,,,,,8,,,,San Diego St,Reserve List
+122,22296,10,Jordan,Ta'amu,,QB,,J. Ta'amu,6030,214,1997-12-10,,,,,,,,,,,8,,,,Mississippi,Active
+123,22318,63,Liam,Ryan,,OL,,L. Ryan,6050,299,1997-10-29,,,,,,,,,,,8,,,,Washington St,Active
+124,22329,43,Francis,Bernard,,LB,,F. Bernard,6010,241,1995-04-08,,,,,,,,,,,8,,,,Utah,Active
+125,22342,16,Chad,Hansen,,WR,,C. Hansen,6017,202,1995-01-18,,,,,,,,,,,8,,,,California,Active
+126,22356,97,Caraun,Reid,,DL,,C. Reid,6021,302,1991-11-23,,,,,,,,,,,8,,,,Princeton,Active
+127,22416,17,Davin,Bellamy,,DL,,D. Bellamy,6050,234,,,,,,,,,,,,8,,,,Georgia,Active
+128,22855,53,Kyle,Murphy,,OL,,K. Murphy,6060,305,,,,,,,,,,,,8,,,,Stanford,Active
+129,22862,15,Michael,Joseph,,DB,,M. Joseph,6000,194,,,,,,,,,,,,8,,,,Dubuque,Active
+130,22880,81,Josh,Malone,,WR,,J. Malone,6026,205,,,,,,,,,,,,8,,,,Tennessee,Active
+131,20033,26,Brycen,Alleyne,,RB,,B. Alleyne,5054,157,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brycen_Alleyne_20033.png,,Delaware St,Active
+132,20067,90,Josh,Avery,,DL,,J. Avery,6040,263,1996-03-16,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Josh_Avery_20067.png,,Southeast Missouri St,Reserve List
+133,20107,11,Tavante,Beckett,,LB,,T. Beckett,5100,220,1997-10-21,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Tavante_Beckett_20107.png,,Marshall,Active
+134,20149,22,Max,Borghi,,RB,,M. Borghi,5093,210,,,,,,,,,,,,2,,,,Washington St,Active
+135,20188,,Ellis,Brooks,,LB,,E. Brooks,6013,226,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Ellis_Brooks_20188.png,,Penn St,Reserve List
+136,20229,1,Deontay,Burnett,,WR,,D. Burnett,5115,185,1997-10-04,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Deontay_Burnett_20229.png,,USC,Active
+137,20241,2,Cedric,Byrd,,WR,,C. Byrd,5093,173,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Cedric_Byrd_20241.png,,Hawaii,Active
+138,20280,73,Tommy,Champion,,OL,,T. Champion,6046,320,1997-03-04,,,,,,,,,,,2,,,,Mississippi St,Active
+139,20350,45,John,Daka,,LB,,J. Daka,6020,222,1997-12-07,,,,,,,,,,,2,,,,James Madison,Active
+140,20368,23,Sean,Davis,,DB,,S. Davis,6010,201,1993-10-23,,,,,,,,,,,2,,,,Maryland,Active
+141,20424,8,Hunter,Duplessis,,K,,H. Duplessis,5084,204,,,,,,,,,,,,2,,,,TX-San Antonio,Active
+142,20437,90,Austin,Edwards,,DL,,A. Edwards,6030,265,1997-08-27,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Austin_Edwards_20437.png,,Ferris St,Reserve List
+143,20443,53,Duke,Ejiofor,,LB,,D. Ejiofor,6033,264,1995-04-24,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Duke_Ejiofor_20443.png,,Wake Forest,Reserve List
+144,20445,5,Kaleb,Eleby,,QB,,K. Eleby,6006,206,2000-03-13,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Kaleb_Eleby_20445.png,,Western Michigan,Active
+145,20633,3,Ajene,Harris,,DB,,A. Harris,5101,181,1996-06-02,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Ajene_Harris_20633.png,,USC,Active
+146,20642,6,Travell,Harris,,WR,,T. Harris,5075,185,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Travell_Harris_20642.png,,Washington St,Active
+147,20675,29,A.J.,Hendy,,DB,,A. Hendy,6005,206,1993-04-08,,,,,,,,,,,2,,,,Maryland,Active
+148,20707,9,Nick,Holley,,WR,,N. Holley,5097,196,1994-12-05,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Nick_Holley_20707.png,,Kent St,Active
+149,20801,17,Deandre,Johnson,,LB,,D. Johnson,6024,252,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Deandre_Johnson_20801.png,,Miami-Fl,Active
+150,20885,42,Brian,Khoury,,LS,,B. Khoury,6025,237,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brian_Khoury_20885.png,,Carnegie-Mellon,Active
+151,20896,13,Jontre,Kirklin,,WR,,J. Kirklin,5115,184,,,,,,,,,,,,2,,,,Louisiana St,Active
+152,20940,34,Dejoun,Lee,,RB,,D. Lee,5060,173,1997-03-14,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Dejoun_Lee_20940.png,,Delaware,Active
+153,20989,50,Chauncey,Manac,,LB,,C. Manac,6027,246,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Chauncey_Manac_20989.png,,Louisiana-Lafayette,Reserve List
+154,21004,99,Trevon,Mason,,DL,,T. Mason,6055,290,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Trevon_Mason_21004.png,,Arizona,Active
+155,21087,55,Alex,Mollette,,OL,,A. Mollette,6021,300,,,,,,,,,,,,2,,,,Marshall,Active
+156,21108,18,Jordan,Mosley,,DB,,J. Mosley,6000,201,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jordan_Mosley_21108.png,,Maryland,Active
+157,21125,94,Scean,Mustin,,DL,,S. Mustin,6013,325,,,,,,,,,,,,2,,,,Sam Houston St,Reserve List
+158,21138,19,Aaron,Nelson,,WR,,A. Nelson,6000,180,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Aaron_Nelson_21138.png,,Delaware Valley,Active
+159,21173,21,Garrett,Owens,,TE,,G. Owens,6026,229,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Garrett_Owens_21173.png,,Duquesne,Active
+160,21189,56,Dareuan,Parker,,OL,,D. Parker,6047,331,1998-07-24,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Dareuan_Parker_21189.png,,Mississippi St,Active
+161,21193,78,Dylan,Pasquali,,OL,,D. Pasquali,6042,309,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Dylan_Pasquali_21193.png,,Ferris St,Active
+162,21248,46,Race,Porter,,P,,R. Porter,6021,178,1998-02-08,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Race_Porter_21248.png,,Washington,Active
+163,21266,80,Ben,Putman,,WR,,B. Putman,5086,181,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Ben_Putman_21266.png,,Nevada,Active
+164,21441,10,Justin,Smith,,WR,,J. Smith,6006,171,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Justin_Smith_21441.png,,Norfolk St,Active
+165,21456,64,Jack,Snyder,,OL,,J. Snyder,6050,306,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jack_Snyder_21456.png,,San Jose St,Active
+166,21471,,James,Stanley,,OL,,J. Stanley,6044,249,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/James_Stanley_21471.png,,Hampton,Reserve List
+167,21536,16,Raleigh,Texada,,DB,,R. Texada,5102,191,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Raleigh_Texada_21536.png,,Baylor,Active
+168,21548,91,Warren,Thomas,,LB,,W. Thomas,6025,255,,,,,,,,,,,,2,,,,Midland Lutheran,Reserve List
+169,21567,,Kevin,Toliver,,DB,,K. Toliver,6016,204,1995-11-24,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Kevin_Toliver_21567.png,,Louisiana St,Reserve List
+170,21609,0,Kary,Vincent,,DB,,K. Vincent,5096,185,1999-02-27,,,,,,,,,,,2,,,,Louisiana St,Active
+171,21628,89,Tim,Ward,,DL,,T. Ward,6053,265,1997-08-11,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Tim_Ward_21628.png,,Old Dominion,Active
+172,21820,47,Chauncey,Rivers,,LB,,C. Rivers,6020,262,1997-06-12,,,,,,,,,,,2,,,,Mississippi St,Active
+173,21848,25,John,Brannon,,DB,,J. Brannon,6003,189,1998-03-10,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/John_Brannon_21848.png,,Western Carolina,Active
+174,21857,52,Emmanuel,Ellerbee,,LB,,E. Ellerbee,6006,232,1996-11-20,,,,,,,,,,,2,,,,Rice,Active
+175,21932,,Jalen,Elliott,,DB,,J. Elliott,6003,205,1998-07-07,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jalen_Elliott_21932.png,,Notre Dame,Reserve List
+176,21946,97,Glen,Logan,,DL,,G. Logan,6026,298,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Glen_Logan_21946.png,,Louisiana St,Active
+177,21952,,Shaquille,Morris,,OL,,S. Morris,6075,326,1994-02-23,,,,,,,,,,,2,,,,Witchita State,Reserve List
+178,21955,19,Sewo,Olonilua,,RB,,S. Olonilua,6025,232,1997-11-27,,,,,,,,,,,2,,,,Texas Christian,Reserve List
+179,21982,14,Cole,McDonald,,QB,,C. McDonald,6031,215,1998-05-20,,,,,,,,,,,2,,,,Hawaii,Active
+180,21984,12,Brandon,Silvers,,QB,,B. Silvers,6023,224,,,,,,,,,,,,2,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brandon_Silvers_21984.png,,Troy,Active
+181,21989,98,C. J.,Brewer,,DL,,C. Brewer,6016,288,,,,,,,,,,,,2,,,,Coastal Carolina,Active
+182,21998,65,Desmond,Noel,,OL,,D. Noel,6036,301,,,,,,,,,,,,2,,,,Florida Atlantic,Active
+183,22032,24,Alexander,Myres,,DB,,A. Myres,5096,187,1996-04-20,,,,,,,,,,,2,,,,Houston,Active
+184,22290,12,Kurt,Benkert,,QB,,K. Benkert,6025,219,1995-07-17,,,,,,,,,,,2,,,,Virginia,Reserve List
+185,22299,15,Nate,Wieland,,LB,,N. Wieland,6040,234,,,,,,,,,,,,2,,,,Grand View,Active
+186,22317,49,Derick,Roberson,,DL,,D. Roberson,6027,247,1995-11-15,,,,,,,,,,,2,,,,Sam Houston St,Reserve List
+187,22364,57,Charles,Wiley,,DL,,C. Wiley,6021,251,,,,,,,,,,,,2,,,,TX-San Antonio,Active
+188,22601,30,William,Likely,,DB,,W. Likely,5080,170,,,,,,,,,,,,2,,,,Maryland,Active
+189,22682,77,Ryan,Pope,,OL,,R. Pope,6080,315,,,,,,,,,,,,2,,,,San Diego St,Active
+190,22833,70,John,Yarbrough,,OL,,J. Yarbrough,6040,297,,,,,,,,,,,,2,,,,Richmond,Active
+191,22852,76,Sage,Doxtater,,OL,,S. Doxtater,6070,316,,,,,,,,,,,,2,,,,New Mexico St,Active
+192,22854,79,James,Moore,,OL,,J. Moore,6030,324,,,,,,,,,,,,2,,,,Central Washington,Active
+193,22857,33,Trent,Harris,,LB,,T. Harris,6020,248,,,,,,,,,,,,2,,,,Miami-Fl,Active
+194,22872,81,Davion,Davis,,WR,,D. Davis,,,,,,,,,,,,,,2,,,,Sam Houston St,Active
+195,22875,96,Jack,Heflin,,DL,,J. Heflin,,,,,,,,,,,,,,2,,,,Iowa,Active
+196,20080,75,Ja'Chai,Baker,,OL,,J. Baker,6056,321,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jachai_Baker_20080.png,,South Alabama,Active
+197,20105,80,Ryan,Becker,,TE,,R. Becker,6044,245,1997-12-23,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Ryan_Becker_20105.png,,SMU,Active
+198,20134,48,Ja'Quain,Blakely,,DL,,J. Blakely,6013,269,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jaquain_Blakely_20134.png,,Tennessee,Active
+199,20170,78,T.J.,Bradley,,OL,,T. Bradley,6062,325,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/TJ_Bradley_20170.png,,Maryland,Reserve List
+200,20187,55,DeCalon,Brooks,,LB,,D. Brooks,5095,210,1999-03-24,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Decalon_Brooks_20187.png,,Florida St,Reserve List
+201,20221,20,Baylen,Buchanan,,DB,,B. Buchanan,5107,191,1998-06-19,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Baylen_Buchanan_20221.png,,Louisiana Tech,Active
+202,20242,16,Dontez,Byrd,,WR,,D. Byrd,5085,176,1995-08-09,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Dontez_Byrd_20242.png,,Tennessee Tech,Active
+203,20272,87,Logan,Carter,,TE,,L. Carter,6032,245,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Logan_Carter_20272.png,,Oklahoma St,Active
+204,20308,34,Nick,Coe,,DL,,N. Coe,6045,280,1997-08-12,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Nick_Coe_20308.png,,Auburn,Active
+205,20357,26,Devin,Darrington,,RB,,D. Darrington,5086,215,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Devin_Darrington_20357.png,,Virginia,Reserve List
+206,20384,70,Sunday,Deng,,OL,,S. Deng,6055,287,,,,,,,,,,,,4,,,,Northwestern Okla St,Active
+207,20407,12,Quinten,Dormady,,QB,,Q. Dormady,6032,215,1996-02-19,,,,,,,,,,,4,,,,Central Michigan,Active
+208,20444,22,Matt,Elam,,DB,,M. Elam,5097,208,1991-09-21,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Matt_Elam_20444.png,,Florida,Active
+209,20512,3,Deondre,Francois,,QB,,D. Francois,6015,215,,,,,,,,,,,,4,,,,Hampton,Active
+210,20527,59,Ze'Veyon,Furcron,,OL,,Z. Furcron,5117,321,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Zeveyon_Furcron_20527.png,,Southern Illinois,Active
+211,20546,41,Jeremiah,Gemmel,,LB,,J. Gemmel,6006,225,,,,,,,,,,,,4,,,,North Carolina,Active
+212,20599,5,Stephen,Guidry,,WR,,S. Guidry,6030,201,1997-03-25,,,,,,,,,,,4,,,,Mississippi St,Active
+213,20649,25,Josh,Harvey-Clemons,,DL,,J. Harvey-Clemons,6042,217,1994-02-20,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Josh_Harvey-Clemons_20649.png,,Louisville,Active
+214,20713,1,C.J.,Holmes,,DB,,C. Holmes,5105,184,,,,,,,,,,,,4,,,,Jackson St,Reserve List
+215,20723,23,Najeem,Hosein,,DB,,N. Hosein,6000,195,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Najeem_Hosein_20723.png,,Ferris St,Active
+216,20750,65,Jordan,Ighofose,,OL,,J. Ighofose,6027,326,,,,,,,,,,,,4,,,,Grambling,Active
+217,20783,18,Andrew,Jamiel,,WR,,A. Jamiel,5085,169,,,,,,,,,,,,4,,,,Stonehill,Active
+218,20841,36,Jacoby,Jones,,DL,,J. Jones,6023,267,,,,,,,,,,,,4,,,,Texas,Active
+219,20929,11,Cody,Latimer,,TE,,C. Latimer,6024,215,1992-10-10,,,,,,,,,,,4,,,,Indiana,Active
+220,20942,13,Mike,Lee,,DB,,M. Lee,5096,181,,,,,,,,,,,,4,,,,Kansas,Active
+221,20962,,Armond,Lloyd,,DL,,A. Lloyd,6024,294,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Armond_Lloyd_20962.png,,Samford,Reserve List
+222,20992,56,Stansly,Maponga,,DL,,S. Maponga,6017,256,1991-03-05,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Stansly_Maponga_20992.png,,Texas Christian,Active
+223,20997,30,Jah-Maine,Martin,,RB,,J. Martin,5095,215,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jah-Maine_Martin_20997.png,,North Carolina A&T,Active
+224,21121,38,Marcus,Murphy,,DB,,M. Murphy,5112,198,1998-09-17,,,,,,,,,,,4,,,,Mississippi St,Active
+225,21162,49,Emmanuel,Olenga,,DL,,E. Olenga,6040,250,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Emmanuel_Olenga_21162.png,,Tennessee St,Active
+226,21179,51,Shawn,Page,,OL,,S. Page,6012,296,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Shawn_Page_21179.png,,Merrimack,Reserve List
+227,21244,44,Terrance,Plummer,,LB,,T. Plummer,5113,241,1990-06-20,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Terrance_Plummer_21244.png,,Central Florida,Active
+228,21333,32,Justin,Rogers,,DB,,J. Rogers,5110,195,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Justin_Rogers_21333.png,,UTEP,Active
+229,21365,99,Trevon,Sanders,,DL,,T. Sanders,6010,317,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Trevon_Sanders_21365.png,,Troy,Active
+230,21448,8,Terrance,Smith,,LB,,T. Smith,6030,219,1993-05-03,,,,,,,,,,,4,,,,Florida St,Active
+231,21453,4,Maurice,Smitherman,,DB,,M. Smitherman,5091,195,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Maurice_Smitherman_21453.png,,Mississippi St,Reserve List
+232,21461,58,Jalen,Spady,,OL,,J. Spady,6020,310,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jalen_Spady_21461.png,,Florida A&M,Active
+233,21514,94,Khristian,Tate,,DL,,K. Tate,5114,280,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Khristian_Tate_21514.png,,Georgetown-Dc,Active
+234,21517,24,Roman,Tatum,,DB,,R. Tatum,5082,177,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Roman_Tatum_21517.png,,Southern Illinois,Active
+235,21528,28,Kelvin,Taylor,,RB,,K. Taylor,5102,207,1993-09-28,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Kelvin_Taylor_21528.png,,Florida,Active
+236,21550,40,Erroll,Thompson,,LB,,E. Thompson,6004,239,1997-10-01,,,,,,,,,,,4,,,,Mississippi St,Active
+237,21664,21,Shaquille,Wiggins,,DB,,S. Wiggins,5092,169,2018-01-08,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Shaquille_Wiggins_21664.png,,Tennessee,Active
+238,21696,9,Gerald,Willis,,DL,,G. Willis,6022,297,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Gerald_Willis_21696.png,,Miami-Fl,Active
+239,21741,0,Jose,Borregales,,K,,J. Borregales,5100,206,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jose_Borregales_21741.png,,Miami-Fl,Active
+240,21891,10,Deddrick,Thomas,,WR,,D. Thomas,5086,190,,,,,,,,,,,,4,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Deddrick_Thomas_21891.png,,Mississippi St,Active
+241,21895,19,Johnny,Townsend,,P,,J. Townsend,6010,210,1995-02-14,,,,,,,,,,,4,,,,Florida,Active
+242,21941,31,Lakia,Henry,,LB,,L. Henry,5110,231,,,,,,,,,,,,4,,,,Mississippi,Active
+243,22001,88,Caeveon,Patton,,DL,,C. Patton,6012,291,,,,,,,,,,,,4,,,,Texas St,Active
+244,22005,2,Javaris,Davis,,DB,,J. Davis,5084,183,1996-12-26,,,,,,,,,,,4,,,,Auburn,Active
+245,22018,14,Charleston,Rambo,,WR,,C. Rambo,6005,177,,,,,,,,,,,,4,,,,Miami-Fl,Active
+246,22020,,Dee,Virgin,,DB,,D. Virgin,5092,194,1993-10-29,,,,,,,,,,,4,,,,West Alabama,Reserve List
+247,22021,33,Tyler,Williams,,DB,,T. Williams,6006,175,,,,,,,,,,,,4,,,,Mississippi St,Reserve List
+248,22319,46,Tegray,Scales,,LB,,T. Scales,6003,230,1996-05-10,,,,,,,,,,,4,,,,Indiana,Active
+249,22354,15,Javonta,Payton,,WR,,J. Payton,6003,175,,,,,,,,,,,,4,,,,Tennessee,Active
+250,22414,77,Abdul,Beecham,,OL,,A. Beecham,6030,320,,,,,,,,,,,,4,,,,Kansas St,Active
+251,22590,64,Fred,Lauina,,OL,,F. Lauina,6040,315,,,,,,,,,,,,4,,,,Oregon St,Active
+252,22605,6,Paxton,Lynch,,QB,,P. Lynch,6070,244,,,,,,,,,,,,4,,,,Memphis,Active
+253,22708,17,Eli,Rogers,,WR,,E. Rogers,5100,175,,,,,,,,,,,,4,,,,Louisville,Active
+254,22878,55,David,Moore,,OL,,D. Moore,6020,316,,,,,,,,,,,,4,,,,Grambling,Active
+255,22888,29,Trumaine,Washington,,DB,,T. Washington,5090,185,,,,,,,,,,,,4,,,,Louisville,Active
+256,20008,5,Tenny,Adewusi,,DB,,T. Adewusi,5117,199,1997-05-13,,,,,,,,,,,3,,,,Delaware,Active
+257,20016,82,Landen,Akers,,WR,,L. Akers,5115,189,1997-07-07,,,,,,,,,,,3,,,,Iowa St,Reserve List
+258,20087,1,Luq,Barcoo,,DB,,L. Barcoo,6001,172,1998-07-27,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Luq_Barcoo_20087.png,,San Diego St,Active
+259,20140,,Bubba,Bolden,,DB,,B. Bolden,6021,209,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Bubba_Bolden_20140.png,,Miami-Fl,Reserve List
+260,20142,2,Terrell,Bonds,,DB,,T. Bonds,5084,182,1996-07-22,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Terrell_Bonds_20142.png,,Tennessee St,Active
+261,20203,6,Fred,Brown,,WR,,F. Brown,6007,199,1993-12-01,,,,,,,,,,,3,,,,Mississippi St,Active
+262,20264,,Owen,Carney,,LB,,O. Carney,6030,269,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Owen_Carney_20264.png,,Illinois,Reserve List
+263,20301,16,Jack,Coan,,QB,,J. Coan,6032,218,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jack_Coan_20301.png,,Notre Dame,Active
+264,20304,,Omari,Cobb,,LB,,O. Cobb,6034,216,1997-05-31,,,,,,,,,,,3,,,,Marshall,Reserve List
+265,20362,3,Ben,Davis,,LB,,B. Davis,6034,237,1997-11-12,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Ben_Davis_20362.png,,Texas,Active
+266,20386,37,Stephen,Denmark,,DB,,S. Denmark,6024,220,1996-04-20,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Stephen_Denmark_20386.png,,Valdosta St,Active
+267,20410,55,Da'Sean,Downey,,LB,,D. Downey,6043,237,1995-05-01,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/De'Sean_Downey_20410.png,,UMass,Active
+268,20440,91,Javier,Edwards,,DL,,J. Edwards,6017,349,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Javiar_Edwards_20440.png,,Colorado,Active
+269,20567,90,Matthew,Gotel,,DL,,M. Gotel,6016,341,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Matthew_Gotel_20567.png,,Webber International,Active
+270,20697,31,Jon,Hilliman,,RB,,J. Hilliman,5113,216,,,,,,,,,,,,3,,,,Rutgers,Active
+271,20733,,Andrzej,Hughes-Murray,,LB,,A. Hughes-Murray,6020,244,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Andrzej_Hughes-Murray_20733.png,,Oregon St,Reserve List
+272,20785,40,Riko,Jeffers,,LB,,R. Jeffers,6005,224,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Riko_Jeffers_20785.png,,Texas Tech,Active
+273,20856,10,Travis,Jonsen,,WR,,T. Jonsen,6010,210,1996-10-16,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Travis_Jonsen_20856.png,,Montana St,Active
+274,20862,71,Roubbens,Joseph,,OL,,R. Joseph,6044,312,1994-12-21,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Roubbens_Joseph_20862.png,,Buffalo,Active
+275,20864,59,Luke,Juriga,,OL,,L. Juriga,6033,301,1997-06-07,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Luke_Juriga_20864.png,,Western Michigan,Active
+276,20874,74,Derrick,Kelly,,OL,,D. Kelly,6046,307,1995-08-23,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Derrick_Kelly_20874.png,,Florida St,Active
+277,20901,28,Jack,Koerner,,DB,,J. Koerner,6003,209,,,,,,,,,,,,3,,,,Iowa,Active
+278,20948,66,Kohl,Levao,,OL,,K. Levao,6047,324,1998-02-21,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Kohl_Levao_20948.png,,Hawaii,Active
+279,21029,63,Jordan,McCray,,OL,,J. McCray,6040,343,1992-05-31,,,,,,,,,,,3,,,,Central Florida,Reserve List
+280,21194,4,Jawon,Pass,,QB,,J. Pass,6041,240,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jawon_Pass_21194.png,,Prairie View A&M,Active
+281,21196,9,Jacques,Patrick,,RB,,J. Patrick,6020,226,1997-01-07,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jacques_Patrick_21196.png,,Florida St,Active
+282,21258,72,Norman,Price,,OL,,N. Price,6044,309,1994-08-25,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Norman_Price_21258.png,,Southern Miss,Active
+283,21311,13,Darece,Roberson,,WR,,D. Roberson,5093,161,1998-07-29,,,,,,,,,,,3,,,,Wayne St-Mi,Active
+284,21314,,Gavin,Robertson,,DB,,G. Robertson,6014,200,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Gavin_Robertson_21314.png,,Montana,Reserve List
+285,21419,20,Kemah,Siverand,,DB,,K. Siverand,6000,201,1996-11-12,,,,,,,,,,,3,,,,Oklahoma St,Active
+286,21499,47,Rex,Sunahara,,LS,,R. Sunahara,6061,250,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Rex_Sunahara_21499.png,,West Virginia,Active
+287,21568,80,Jalen,Tolliver,,WR,,J. Tolliver,6004,208,1995-12-30,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jalen_Tolliver_21568.png,,Arkansas-Monticel,Active
+288,21581,12,Calvin,Turner,,WR,,C. Turner,5113,197,,,,,,,,,,,,3,,,,Hawaii,Reserve List
+289,21589,42,Mike,Tverdov,,DL,,M. Tverdov,6036,266,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Mike_Tverdov_21589.png,,Rutgers,Active
+290,21672,,Daniel,Williams,,WR,,D. Williams,6016,234,1995-08-06,,,,,,,,,,,3,,,,Jackson St,Active
+291,21706,0,Brad,Wing,,P,,B. Wing,6023,205,1991-01-27,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brad_Wing_21706.png,,Louisiana St,Active
+292,21724,58,Willie,Wright,,OL,,W. Wright,6024,300,1996-02-25,,,,,,,,,,,3,,,,Tulsa,Reserve List
+293,21740,33,Drew,Beesley,,DL,,D. Beesley,6020,251,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Drew_Beesley_21740.png,,Michigan St,Active
+294,21761,24,Ryan,Lewis,,DB,,R. Lewis,5105,191,1994-04-15,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Ryan_Lewis_21761.png,,Pittsburgh,Active
+295,21765,88,Alize,Mack,,TE,,A. Mack,6040,249,1997-03-29,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Alize_Mack_21765.png,,Notre Dame,Active
+296,21770,,Dylan,Parham,,TE,,D. Parham,6042,241,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Dylan_Parham_21770.png,,North Carolina St,Reserve List
+297,21775,23,Parker,Romo,,K,,P. Romo,5111,176,,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/John Parker_Romo_21775.png,,Virginia Tech,Active
+298,21898,18,T.J.,Vasher,,WR,,T. Vasher,6055,203,,,,,,,,,,,,3,,,,Texas Tech,Active
+299,21915,35,Ben,Beise,,TE,,B. Beise,6027,247,,,,,,,,,,,,3,,,,WI-River Falls,Active
+300,21954,77,Chidi,Okeke,,OL,,C. Okeke,6060,319,1996-12-26,,,,,,,,,,,3,,,,Tennessee St,Active
+301,21974,15,Jordan,Williams,,LB,,J. Williams,5116,223,1997-05-26,,,,,,,,,,,3,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jordan_Williams_21974.png,,Baylor,Active
+302,21992,,Rico,Gafford,,DB,,R. Gafford,5093,175,1996-05-23,,,,,,,,,,,3,,,,Wyoming,Reserve List
+303,22013,97,Julian,McCleod,,DL,,J. McCleod,6011,282,1997-01-14,,,,,,,,,,,3,,,,Wagner,Reserve List
+304,22022,84,Deon,Yelder,,TE,,D. Yelder,6025,256,1995-03-06,,,,,,,,,,,3,,,,Western Kentucky,Active
+305,22023,,Prince,Emili,,DL,,P. Emili,6005,295,,,,,,,,,,,,3,,,,Penn,Reserve List
+306,22028,17,Reid,Sinnett,,QB,,R. Sinnett,6035,229,1997-02-05,,,,,,,,,,,3,,,,San Diego,Active
+307,22034,11,Kalen,Ballage,,RB,,K. Ballage,6015,227,1995-12-22,,,,,,,,,,,3,,,,Arizona St,Active
+308,22376,22,Ranthony,Texada,,DB,,R. Texada,5100,172,1995-05-16,,,,,,,,,,,3,,,,Texas Christian,Active
+309,22379,79,Kai,Absheer,,OL,,K. Absheer,6050,353,,,,,,,,,,,,3,,,,Florida Int,Active
+310,22430,,Cody,Brown,,DB,,C. Brown,,,,,,,,,,,,,,3,,,,Arkansas St,Reserve List
+311,22463,,Reggie,Corbin,,RB,,R. Corbin,,,,,,,,,,,,,,3,,,,Illinois,Reserve List
+312,22597,25,Drew,Lewis,,LB,,D. Lewis,6020,227,1995-09-07,,,,,,,,,,,3,,,,Colorado,Active
+313,22610,51,Damien,Mama,,OL,,D. Mama,6030,324,,,,,,,,,,,,3,,,,USC,Active
+314,22681,,Terry,Poole,,OL,,T. Poole,,,,,,,,,,,,,,3,,,,San Diego St,Reserve List
+315,22726,44,Mike,Scott,,DL,,M. Scott,6050,240,,,,,,,,,,,,3,,,,Oklahoma St,Active
+316,22778,95,Kamilo,Tongamoa,,DL,,K. Tongamoa,6060,338,,,,,,,,,,,,3,,,,Iowa St,Active
+317,22819,21,Sean,Williams,,DB,,S. Williams,6000,220,,,,,,,,,,,,3,,,,Naval Academy,Active
+318,22844,45,Delontae,Scott,,DL,,D. Scott,6044,246,1997-01-21,,,,,,,,,,,3,,,,SMU,Active
+319,22845,,Ty,Shelby,,DL,,T. Shelby,6037,249,,,,,,,,,,,,3,,,,Louisiana-Monroe,Reserve List
+320,22879,50,Kobe,Smith,,DL,,K. Smith,6010,300,,,,,,,,,,,,3,,,,South Carolina,Active
+321,22884,8,Kameron,Kelly,,DB,,K. Kelly,6020,225,,,,,,,,,,,,3,,,,San Diego St,Active
+322,20261,,Jacob,Capra,,OL,,J. Capra,6051,300,1998-11-02,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jacob_Capra_20261.png,,San Diego St,Reserve List
+323,20311,32,Qwynnterrio,Cole,,DB,,Q. Cole,6001,203,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Qwynnterrio_Cole_20311.png,,Louisville,Active
+324,20367,,Rashard,Davis,,WR,,R. Davis,5081,173,1995-09-14,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Rashard_Davis_20367.png,,James Madison,Reserve List
+325,20369,24,Shabari,Davis,,DB,,S. Davis,6004,186,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Shabari_Davis_20369.png,,Southeast Missouri St,Active
+326,20450,25,Morgan,Ellison,,RB,,M. Ellison,6006,238,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Morgan_Ellison_20450.png,,SE Louisiana,Active
+327,20460,26,Jordan,Evans,,LB,,J. Evans,6020,239,1995-01-27,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jordan_Evans_20460.png,,Oklahoma,Active
+328,20466,58,Austin,Faoliu,,DL,,A. Faoliu,6031,287,,,,,,,,,,,,6,,,,Oregon,Active
+329,20468,17,Rojesterman,Farris,,DB,,R. Farris,5112,179,1997-09-11,,,,,,,,,,,6,,,,Hawaii,Active
+330,20486,45,Thomas,Fletcher,,LS,,T. Fletcher,6006,236,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Thomas_Fletcher_20486.png,,Alabama,Active
+331,20573,65,Paul,Grattan,,OL,,P. Grattan,6036,299,1997-08-28,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Paul_Grattan_20573.png,,UCLA,Active
+332,20620,19,T.J.,Hammonds,,WR,,T. Hammonds,5093,185,1998-04-24,,,,,,,,,,,6,,,,Arkansas,Active
+333,20760,52,Antwuan,Jackson,,DL,,A. Jackson,6021,298,,,,,,,,,,,,6,,,,Ohio St,Active
+334,20761,80,Blake,Jackson,,WR,,B. Jackson,5112,205,1994-03-07,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Blake_Jackson_20761.png,,Mary Hardin-Baylor,Active
+335,20794,71,Liam,Jimmons,,OL,,L. Jimmons,6050,320,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Liam_Jimmons_20794.png,,USC,Active
+336,20836,5,Chris,Jones,,DB,,C. Jones,5117,200,1995-08-13,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Chris_Jones_20836.png,,Nebraska,Active
+337,20869,,Kevin,Kassis,,WR,,K. Kassis,5116,190,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Kevin_Kassis_20869.png,,Montana St,Reserve List
+338,20878,36,Zafir,Kelly,,DB,,Z. Kelly,5112,178,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Zafir_Kelly_20878.png,,South Carolina St,Active
+339,20918,97,Niko,Lalos,,DL,,N. Lalos,6043,260,1997-06-25,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Niko_Lalos_20918.png,,Dartmouth,Active
+340,21059,72,Michal,Menet,,OL,,M. Menet,6041,301,1997-08-08,,,,,,,,,,,6,,,,Penn St,Active
+341,21091,12,Steven,Montez,,QB,,S. Montez,6040,231,1997-01-14,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Steven_Montez_21091.png,,Colorado,Active
+342,21172,55,Chris,Owens,,OL,,C. Owens,6025,300,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Chris_Owens_21172.png,,Alabama,Active
+343,21178,50,Sama,Paama,,DL,,S. Paama,6040,348,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Sama_Paama_21178.png,,Washington,Active
+344,21203,3,Jahcour,Pearson,,WR,,J. Pearson,5073,178,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jahcour_Pearson_21203.png,,Mississippi,Active
+345,21284,13,Jaylon,Redd,,WR,,J. Redd,5082,170,1998-09-25,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jaylon_Redd_21284.png,,Oregon,Active
+346,21391,70,Josh,Seltzner,,OL,,J. Seltzner,6045,309,,,,,,,,,,,,6,,,,Wisconsin,Active
+347,21422,51,Tuzar,Skipper,,LB,,T. Skipper,6023,248,1995-06-05,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Tuzar_Skipper_21422.png,,Toledo,Active
+348,21437,43,Emmanuel,Smith,,LB,,E. Smith,6013,235,1995-07-25,,,,,,,,,,,6,,,,Vanderbilt,Active
+349,21584,90,Julius,Turner,,DL,,J. Turner,5113,281,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Julius_Turner_21584.png,,Rutgers,Reserve List
+350,21620,8,Tre,Walker,,LB,,T. Walker,6002,235,,,,,,,,,,,,6,,,,Idaho,Active
+351,21633,,Khalique,Washington,,OL,,K. Washington,6035,313,,,,,,,,,,,,6,,,,Southern Miss,Reserve List
+352,21640,,Curtis,Weaver,,DL,,C. Weaver,6023,265,1998-08-03,,,,,,,,,,,6,,,,Boise St,Reserve List
+353,21649,69,Barry,Wesley,,OL,,B. Wesley,6063,312,,,,,,,,,,,,6,,,,Colorado St,Active
+354,21695,15,Damion,Willis,,WR,,D. Willis,6031,204,1997-06-20,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Damion_Willis_21695.png,,Troy,Active
+355,21721,34,Mykael,Wright,,DB,,M. Wright,5104,181,,,,,,,,,,,,6,,,,Oregon,Active
+356,21771,81,Joshua,Perkins,,TE,,J. Perkins,6030,219,1993-08-05,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Joshua_Perkins_21771.png,,Washington,Reserve List
+357,21869,96,Daniel,Joseph,,DL,,D. Joseph,6022,261,,,,,,,,,,,,6,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Daniel_Joseph_21869.png,,North Carolina St,Active
+358,21871,28,Brenden,Knox,,RB,,B. Knox,5106,215,1998-10-10,,,,,,,,,,,6,,,,Marshall,Active
+359,21875,86,Kelvin,McKnight,,WR,,K. McKnight,5081,185,1997-04-25,,,,,,,,,,,6,,,,Samford,Active
+360,21919,2,Antoine,Brooks,,DB,,A. Brooks,5105,220,1997-10-28,,,,,,,,,,,6,,,,Maryland,Active
+361,21924,,Adam,Coon,,OL,,A. Coon,6050,285,,,,,,,,,,,,6,,,,Michigan,Reserve List
+362,21928,,Julien,Davenport,,OL,,J. Davenport,6066,318,1995-01-09,,,,,,,,,,,6,,,,Bucknell,Reserve List
+363,21939,92,P.J.,Hall,,DL,,P. Hall,6004,308,1995-04-05,,,,,,,,,,,6,,,,Sam Houston St,Active
+364,21963,21,Linden,Stephens,,DB,,L. Stephens,5113,190,1995-03-21,,,,,,,,,,,6,,,,Cincinnati,Active
+365,21967,89,Charlie,Taumoepeau,,TE,,C. Taumoepeau,6022,240,,,,,,,,,,,,6,,,,Portland St,Active
+366,21979,6,Ben,DiNucci,,QB,,B. DiNucci,6005,208,1996-11-24,,,,,,,,,,,6,,,,James Madison,Active
+367,21997,10,Cameron,Nizialek,,P,,C. Nizialek,6015,210,,,,,,,,,,,,6,,,,Georgia,Active
+368,22016,22,Scottie,Phillips,,RB,,S. Phillips,5080,209,1997-10-06,,,,,,,,,,,6,,,,Mississippi,Reserve List
+369,22017,44,Elijah,Ponder,,LB,,E. Ponder,6015,258,,,,,,,,,,,,6,,,,Cincinnati,Active
+370,22025,93,Treyvon,Hester,,DL,,T. Hester,6023,300,1992-09-21,,,,,,,,,,,6,,,,Toledo,Active
+371,22035,4,Juwan,Green,,WR,,J. Green,6002,181,1998-07-01,,,,,,,,,,,6,,,,New York St-Albany,Active
+372,22306,88,Jordan,Veasy,,WR,,J. Veasy,6025,219,,,,,,,,,,,,6,,,,California,Active
+373,22344,9,Clarence,Hicks,,LB,,C. Hicks,6017,225,,,,,,,,,,,,6,,,,TX-San Antonio,Active
+374,22377,27,Bryce,Thompson,,DB,,B. Thompson,5105,182,1999-09-20,,,,,,,,,,,6,,,,Tennessee,Active
+375,22552,33,Alijah,Holder,,DB,,A. Holder,6020,197,,,,,,,,,,,,6,,,,Stanford,Active
+376,22584,56,Tejan,Koroma,,OL,,T. Koroma,6000,299,,,,,,,,,,,,6,,,,Brigham Young,Active
+377,22630,48,Shareef,Miller,,LB,,S. Miller,6050,267,,,,,,,,,,,,6,,,,Penn St,Active
+378,22766,73,Jared,Thomas,,OL,,J. Thomas,6030,318,,,,,,,,,,,,6,,,,Northwestern,Active
+379,22840,0,Josh,Gordon,,WR,,J. Gordon,6031,224,1991-04-13,,,,,,,,,,,6,,,,Baylor,Active
+380,22856,14,Harrison,Frost,,QB,,H. Frost,6010,197,,,,,,,,,,,,6,,,,West Georgia,Active
+381,22874,11,Dominik,Eberle,,K,,D. Eberle,6020,190,,,,,,,,,,,,6,,,,Utah St,Active
+382,22883,67,Colin,Kelly,,OL,,C. Kelly,6050,298,,,,,,,,,,,,6,,,,Oregon St,Active
+383,20058,3,Marcell,Ateman,,WR,,M. Ateman,6045,215,1994-09-16,,,,,,,,,,,5,,,,Oklahoma St,Active
+384,20061,90,Kevin,Atkins,,DL,,K. Atkins,6022,314,,,,,,,,,,,,5,,,,Fresno St,Active
+385,20249,15,George,Campbell,,WR,,G. Campbell,6025,207,1996-10-27,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/George_Campbell_20249.png,,West Virginia,Active
+386,20265,77,Shane,Carpenter,,OL,,S. Carpenter,6053,333,1996-08-07,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Shane_Carpenter_20265.png,,Louisiana Tech,Reserve List
+387,20381,28,Ben,DeLuca,,DB,,B. DeLuca,6011,202,1998-04-09,,,,,,,,,,,5,,,,UNC-Charlotte,Active
+388,20385,25,Lukas,Denis,,DB,,L. Denis,5112,190,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Lukas_Denis_20385.png,,Boston College,Active
+389,20397,79,Daishawn,Dixon,,OL,,D. Dixon,6045,325,1997-06-19,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Daishawn_Dixon_20397.png,,San Diego St,Active
+390,20442,,Emeke,Egbule,,LB,,E. Egbule,6020,245,1996-10-13,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Emeke_Egbule_20442.png,,Houston,Reserve List
+391,20562,74,Steven,Gonzalez,,OL,,S. Gonzalez,6034,332,1997-05-11,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Steven_Gonzalez_20562.png,,Penn St,Active
+392,20585,,A.J.,Greene,,WR,,A. Greene,6010,195,,,,,,,,,,,,5,,,,New Haven,Reserve List
+393,20615,1,Elijah,Hamilton,,DB,,E. Hamilton,6012,211,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Elijah_Hamilton_20615.png,,Louisiana Tech,Active
+394,20647,51,Willie,Harvey,,LB,,W. Harvey,5112,229,,,,,,,,,,,,5,,,,Iowa St,Active
+395,20651,9,Jovani,Haskins,,TE,,J. Haskins,6044,252,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jovani_Haskins_20651.png,,Rutgers,Active
+396,20688,23,Brian,Hill,,RB,,B. Hill,6010,219,1995-11-09,,,,,,,,,,,5,,,,Wyoming,Active
+397,20704,16,Sterling,Hofrichter,,P,,S. Hofrichter,5095,196,1996-12-05,,,,,,,,,,,5,,,,Syracuse,Active
+398,20855,75,Jaryd,Jones-Smith,,OL,,J. Jones-Smith,6064,317,1995-09-03,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jaryd_Jones-Smith_20855.png,,Pittsburgh,Active
+399,20965,96,LaCale,London,,DL,,L. London,6036,297,1997-08-05,,,,,,,,,,,5,,,,Western Illinois,Active
+400,20971,95,Elorm,Lumor,,DL,,E. Lumor,6034,242,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Elorm_Lumor_20971.png,,Towson,Active
+401,21081,22,Steven,Mitchell,,WR,,S. Mitchell,5101,188,1994-05-02,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Steven_Mitchell_21081.png,,USC,Active
+402,21165,67,Christian,Olmstead,,OL,,C. Olmstead,6040,302,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Christian_Olmstead_21165.png,,Findlay,Active
+403,21183,61,Mike,Panasiuk,,OL,,M. Panasiuk,6032,300,1997-10-13,,,,,,,,,,,5,,,,Michigan St,Active
+404,21263,13,Austin,Proehl,,WR,,A. Proehl,5091,179,1995-10-11,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Austin_Proehl_21263.png,,North Carolina,Active
+405,21319,99,Gelen,Robinson,,DL,,G. Robinson,6010,275,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Gelen_Robinson_21319.png,,Purdue,Active
+406,21340,27,Mike,Rose,,LB,,M. Rose,6037,243,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Mike_Rose_21340.png,,Iowa St,Active
+407,21343,,D'Angelo,Ross,,DB,,D. Ross,5080,182,1996-10-29,,,,,,,,,,,5,,,,New Mexico,Reserve List
+408,21389,38,Brandon,Sebastian,,DB,,B. Sebastian,6001,182,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brandon_Sebastian_21389.png,,Boston College,Active
+409,21439,9,Jaylen,Smith,,TE,,J. Smith,6022,219,1997-01-08,,,,,,,,,,,5,,,,Louisville,Reserve List
+410,21493,,Channing,Stribling,,DB,,C. Stribling,6012,188,1994-11-21,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Channing_Stribling_21493.png,,Michigan,Reserve List
+411,21501,84,Jake,Sutherland,,TE,,J. Sutherland,6040,241,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jake_Sutherland_21501.png,,Morehead St,Active
+412,21521,,Billy,Taylor,,LS,,B. Taylor,6004,235,,,,,,,,,,,,5,,,,Rutgers,Reserve List
+413,21546,83,Jordan,Thomas,,TE,,J. Thomas,6054,265,1996-08-02,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jordan_Thomas_21546.png,,Mississippi St,Active
+414,21558,14,Nick,Tiano,,QB,,N. Tiano,6041,236,1996-12-10,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Nick_Tiano_21558.png,,Tennessee-Chatt,Active
+415,21578,91,Taniela,Tupou,,DL,,T. Tupou,6014,284,1992-12-13,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Taniela_Tupou_21578.png,,Washington,Active
+416,21667,5,Manny,Wilkins,,QB,,M. Wilkins,6020,193,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Manny_Wilkins_21667.png,,Arizona St,Active
+417,21678,6,Lakiem,Williams,,LB,,L. Williams,5112,233,1997-08-18,,,,,,,,,,,5,,,,Syracuse,Active
+418,21716,72,Jovaun,Woolford,,OL,,J. Woolford,6036,295,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jovaun_Woolford_21716.png,,Rice,Reserve List
+419,21781,,Jamarcus,Bradley,,WR,,J. Bradley,6003,198,1996-12-11,,,,,,,,,,,5,,,,Louisiana-Lafayette,Reserve List
+420,21822,11,Darrius,Shepherd,,WR,,D. Shepherd,5104,186,1995-11-01,,,,,,,,,,,5,,,,North Dakota St,Active
+421,21833,53,Carson,Wells,,LB,,C. Wells,6026,241,,,,,,,,,,,,5,,,,Colorado,Active
+422,21842,32,Jonathan,Alexander,,DB,,J. Alexander,6020,217,1999-09-27,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jonathan_Alexander_21842.png,,UNC-Charlotte,Active
+423,21843,78,Vadal,Alexander,,OL,,V. Alexander,6052,326,1994-03-23,,,,,,,,,,,5,,,,Louisiana St,Active
+424,21856,21,Mataeo,Durant,,RB,,M. Durant,5113,196,,,,,,,,,,,,5,,,,Duke,Active
+425,21862,8,Mike,Hampton,,DB,,M. Hampton,5115,186,1997-12-08,,,,,,,,,,,5,,,,South Florida,Active
+426,21870,29,Silas,Kelly,,LB,,S. Kelly,6034,229,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Silas_Kelly_21870.png,,Coastal Carolina,Active
+427,21901,,Brendon,White,,DB,,B. White,6013,215,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brendon_White_21901.png,,Rutgers,Reserve List
+428,21927,93,Damion,Daniels,,DL,,D. Daniels,6016,302,1999-08-31,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Damion_Daniels_21927.png,,Nebraska,Active
+429,21938,,Hezekiah,Grimsley,,WR,,H. Grimsley,5113,174,,,,,,,,,,,,5,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Hezekiah_Grimsley_21938.png,,Hampton,Reserve List
+430,22002,,Jon,Toth,,OL,,J. Toth,6047,307,1994-02-11,,,,,,,,,,,5,,,,Kentucky,Reserve List
+431,22008,2,Donald,Hageman,,K,,D. Hageman,6010,177,,,,,,,,,,,,5,,,,San Diego St,Active
+432,22012,47,Alexander,Matheson,,LS,,A. Matheson,6050,245,,,,,,,,,,,,5,,,,Cal Lutheran,Active
+433,22026,10,A. J.,McCarron,,QB,,A. McCarron,6032,220,1990-09-13,,,,,,,,,,,5,,,,Alabama,Active
+434,22033,0,Kareem,Walker,,RB,,K. Walker,6001,209,,,,,,,,,,,,5,,,,South Alabama,Active
+435,22038,12,Gary,Jennings,,WR,,G. Jennings,6010,216,,,,,,,,,,,,5,,,,West Virginia,Active
+436,22297,33,Tre,Watson,,LB,,T. Watson,6021,242,1996-07-05,,,,,,,,,,,5,,,,Maryland,Active
+437,22333,88,Hakeem,Butler,,WR,,H. Butler,6053,227,1996-05-16,,,,,,,,,,,5,,,,Iowa St,Active
+438,22336,39,Chris,Cooper,,DB,,C. Cooper,5103,202,1994-03-17,,,,,,,,,,,5,,,,Stony Brook,Active
+439,22352,26,Nate,Meadors,,DB,,N. Meadors,5115,192,1997-02-13,,,,,,,,,,,5,,,,UCLA,Active
+440,22386,98,Freedom,Akinmoladun,,DL,,F. Akinmoladun,6030,301,,,,,,,,,,,,5,,,,Nebraska,Active
+441,22443,73,Juwann,Bushell-Beatty,,OL,,J. Bushell-Beatty,6050,332,,,,,,,,,,,,5,,,,Michigan,Active
+442,22503,56,Travis,Feeney,,LB,,T. Feeney,6040,259,,,,,,,,,,,,5,,,,Washington,Active
+443,22800,55,Dallas,Warmack,,OL,,D. Warmack,6020,310,,,,,,,,,,,,5,,,,Oregon,Active
+444,22867,4,Tim,Harris,,DB,,T. Harris,6020,197,,,,,,,,,,,,5,,,,Virginia,Reserve List
+445,22869,77,Eric,Magwood,,OL,,E. Magwood,6040,300,,,,,,,,,,,,5,,,,Middle Tenn St,Active
+446,22870,24,Lavert,Hill,,DB,,L. Hill,5110,182,,,,,,,,,,,,5,,,,Michigan,Active
+447,20006,50,Tony,Adams,,OL,,T. Adams,6014,314,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Tony_Adams_20006.png,,North Carolina St,Reserve List
+448,20007,24,Will,Adams,,DB,,W. Adams,6011,187,1998-03-13,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Will_Adams_20007.png,,Virginia St,Active
+449,20039,9,Deontay,Anderson,,DB,,D. Anderson,6014,218,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Deontay_Anderson_20039.png,,Houston,Active
+450,20066,28,C.J.,Avery,,LB,,C. Avery,5117,230,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/CJ_Avery_20066.png,,Louisville,Active
+451,20072,13,Jeff,Badet,,WR,,J. Badet,5111,183,1994-08-02,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jeff_Badet_20072.png,,Oklahoma,Active
+452,20076,47,Bailey,Giffen,,K/P,,B. Giffen,5100,189,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Giffen_Bailey_20076.png,,No College,Active
+453,20218,4,Martavis,Bryant,,WR,,M. Bryant,6036,211,1991-12-20,,,,,,,,,,,7,,,,Clemson,Active
+454,20232,18,Brian,Burt,,RB,,B. Burt,6000,186,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brian_Burt_20232.png,,Fresno St,Active
+455,20351,,Larry,Dalla Betta,,TE,,L. Dalla Betta,6040,235,1999-04-16,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Lawrence_Dalla Betta_20351.png,,Webber International,Reserve List
+456,20374,11,P.J.,Dawson,,LB,,P. Dawson,6001,235,1993-01-13,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Paul_Dawson_20374.png,,Texas Christian,Active
+457,20392,86,Brandon,Dillon,,TE,,B. Dillon,6034,247,1997-04-30,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Brandon_Dillon_20392.png,,Marian,Active
+458,20434,77,Quinterrius,Eatmon,,OL,,Q. Eatmon,6062,293,1991-12-04,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Quinterrius_Eatmon_20434.png,,South Florida,Active
+459,20461,25,Marwin,Evans,,DB,,M. Evans,5114,211,1993-04-10,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Marwin_Evans_20461.png,,Utah St,Active
+460,20537,53,Antonio,Garcia,,OL,,A. Garcia,6062,302,1993-12-10,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Antonio_Garcia_20537.png,,Troy,Active
+461,20600,,Grayson,Gunter,,TE,,G. Gunter,6056,250,,,,,,,,,,,,7,,,,Southern Miss,Reserve List
+462,20690,27,Nijuel,Hill,,DB,,N. Hill,5087,182,1997-10-29,,,,,,,,,,,7,,,,Delaware,Active
+463,20710,43,Luke,Holloway,,LB,,L. Holloway,6025,227,1997-04-05,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Luke_Holloway_20710.png,,Idaho St,Reserve List
+464,20811,20,Jawuan,Johnson,,LB,,J. Johnson,5106,223,1996-06-13,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jawuan_Johnson_20811.png,,Texas Christian,Active
+465,20832,95,Bryant,Jones,,DL,,B. Jones,6010,304,1997-04-15,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Bryant_Jones_20832.png,,Mississippi Valley St,Active
+466,20903,16,Travis,Koontz,,TE,,T. Koontz,6035,253,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Travis_Koontz_20903.png,,Texas Tech,Active
+467,20947,75,Jovann,Letuli,,OL,,J. Letuli,6033,341,1996-08-18,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jovann_Letuli_20947.png,,Akron,Active
+468,21022,3,Jalan,McClendon,,QB,,J. McClendon,6047,212,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jalan_Mcclendon_21022.png,,Baylor,Active
+469,21041,,Kevin,McGill,,DB,,K. McGill,6000,195,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Kevin_Mcgill_21041.png,,Eastern Michigan,Reserve List
+470,21075,64,Michael,Miller,,OL,,M. Miller,6036,305,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Michael_Miller_21075.png,,Washburn,Active
+471,21207,12,Luis,Perez,,QB,,L. Perez,6027,226,1994-08-26,,,,,,,,,,,7,,,,Texas A&M-Commerce,Active
+472,21218,,Ben,Petrula,,OL,,B. Petrula,6050,316,,,,,,,,,,,,7,,,,Boston College,Reserve List
+473,21223,21,Antonio,Phillips,,DB,,A. Phillips,5113,193,1998-12-09,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Antonio_Phillips_21223.png,,Ball St,Active
+474,21238,96,Kelvin,Pinkney,,DL,,K. Pinkney,6012,320,,,,,,,,,,,,7,,,,South Florida,Active
+475,21259,80,Sean,Price,,TE,,S. Price,6023,249,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Sean_Price_21259.png,,South Florida,Active
+476,21312,30,Stephen,Roberts,,DB,,S. Roberts,5110,183,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Stephen_Roberts_21312.png,,Auburn,Active
+477,21444,26,Maurice,Smith,,DB,,M. Smith,5113,196,1995-06-14,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Maurice_Smith_21444.png,,Georgia,Reserve List
+478,21447,15,Rod,Smith,,RB,,R. Smith,6025,231,1992-01-10,,,,,,,,,,,7,,,,Ohio St,Active
+479,21462,22,Adam,Sparks,,DB,,A. Sparks,5104,169,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Adam_Sparks_21462.png,,Louisiana-Monroe,Active
+480,21502,89,Cam,Sutton,,TE,,C. Sutton,6045,229,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Cam_Sutton_21502.png,,Fresno St,Active
+481,21507,14,Cinque,Sweeting,,WR,,C. Sweeting,5094,193,,,,,,,,,,,,7,,,,Slippery Rock,Active
+482,21570,5,DeAndre,Torrey,,RB,,D. Torrey,5070,201,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Deandre_Torrey_21570.png,,North Texas,Active
+483,21651,61,Dohnovan,West,,OL,,D. West,6033,309,,,,,,,,,,,,7,,,,Arizona St,Active
+484,21674,71,Isaiah,Williams,,OL,,I. Williams,6031,307,1993-05-05,,,,,,,,,,,7,,,,Akron,Active
+485,21739,44,Vic,Beasley,,LB,,V. Beasley,6030,246,1992-07-08,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Vic_Beasley_21739.png,,Clemson,Active
+486,21744,48,D.J.,Calhoun,,LB,,D. Calhoun,5110,244,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/DJ_Calhoun_21744.png,,Arizona St,Active
+487,21752,,Nick,Guggemos,,TE,,N. Guggemos,6045,248,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Nick_Guggemos_21752.png,,St Thomas,Reserve List
+488,21753,1,Mister,Harriel,,DB,,M. Harriel,6000,191,1997-02-15,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Mister_Harriel_21753.png,,Cal St-Sacramento,Active
+489,21784,17,Michael,Carrizosa,,P,,M. Carrizosa,5094,225,1995-09-18,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Michael_Carrizosa_21784.png,,San Jose St,Active
+490,21794,40,Adam,Higuera,,LS,,A. Higuera,6007,237,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Adam_Higuera_21794.png,,Tulsa,Active
+491,21872,8,John,Lovett,,RB,,J. Lovett,5114,215,,,,,,,,,,,,7,,,,Penn St,Active
+492,21882,10,Mathew,Sexton,,WR,,M. Sexton,5096,175,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Mathew_Sexton_21882.png,,Eastern Michigan,Active
+493,21911,65,Jamil,Demby,,OL,,J. Demby,6044,319,1996-06-20,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jamil_Demby_21911.png,,Maine,Active
+494,21923,57,Matt,Cohen,,OL,,M. Cohen,6050,305,1993-08-25,,,,,,,,,,,7,,,,Louisville,Reserve List
+495,21943,6,Keylon,Kennedy,,DB,,K. Kennedy,5110,185,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Keylon_Kennedy_21943.png,,Garden City Cc,Active
+496,21948,90,Jah'Sheem,Martin,,DL,,J. Martin,6022,323,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Jahsheem_Martin_21948.png,,Pace,Active
+497,21960,23,Maximilian,Roberts,,DL,,M. Roberts,6010,256,,,,,,,,,,,,7,,,,Boston College,Active
+498,21966,97,LaRon,Stokes,,DL,,L. Stokes,6036,278,,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Laron_Stokes_21966.png,,Oklahoma,Active
+499,21968,0,Pita,Taumoepenu,,LB,,P. Taumoepenu,6012,243,1994-03-09,,,,,,,,,,,7,,,,Utah,Active
+500,21975,88,Robert,Windsor,,DL,,R. Windsor,6044,290,1997-01-15,,,,,,,,,,,7,,https://res.cloudinary.com/xfl-production/image/upload/v1668132138/xfl-prod/headshots/Robert_Windsor_21975.png,,Penn St,Active
+501,22325,19,Geronimo,Allison,,WR,,G. Allison,6031,197,1994-01-18,,,,,,,,,,,7,,,,Illinois,Active
+502,22785,99,Destiny,Vaeao,,DL,,D. Vaeao,6040,320,,,,,,,,,,,,7,,,,Washington St,Active
+503,22846,,Connor,Wedington,,WR,,C. Wedington,6004,196,,,,,,,,,,,,7,,,,Stanford,Reserve List
+504,22847,56,Larry,Williams,,OL,,L. Williams,6044,308,,,,,,,,,,,,7,,,,Oklahoma St,Active
+505,22858,69,Kahlil,McKenzie,,OL,,K. McKenzie,6030,345,,,,,,,,,,,,7,,,,Tennessee,Active
+506,22876,2,Brett,Hundley,,QB,,B. Hundley,6030,226,,,,,,,,,,,,7,,,,UCLA,Active
+507,22885,45,Martrell,Spaight,,LB,,M. Spaight,6000,238,,,,,,,,,,,,7,,,,Arkansas,Active
