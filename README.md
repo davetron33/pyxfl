@@ -3,6 +3,8 @@
 Gathering XFL statistics and data from the (probably not intended to be) public XFL api endpoint. This will eventually turn into a python library to query XFL stats.
 This is a work in progress. Made by a proud lifelong DC Defenders fan. 
 
+An airtable of the data pulled can be found here: https://airtable.com/shrjXunlZHy3ga31c/tbla5XrrYw6c0IkHE/viwnRJfoXpP4SBJ3L
+
 Be gentle.
 
 Be kind. #SHIELDSUP. 
