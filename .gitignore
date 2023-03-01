@@ -1,3 +1,6 @@
 .DS_Store
 *venv
 .idea
+*.db
+*processed_data/
+*raw_data/
