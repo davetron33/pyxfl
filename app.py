@@ -1,16 +1,25 @@
 import pandas as pd
 import requests
+import argparse
 import json
 import os
 
+# initialize a few happy variables. variables are cool.
 token = os.getenv('access_token')
 players_endpoint = 'https://api.xfl.com/scoring/v3.30/players'
 teams_endpoint = 'https://api.xfl.com/scoring/v3.30/teams'
 stats_endpoint = 'https://api.xfl.com/scoring/v3.30/playerstats'
 
+# class xfl is the powerhouse of the cell.
+
 
 class xfl:
 
+    '''
+    api_params is a global variable because it is well traveled.
+    and by well traveled I mean we will reuse this dictionary later on
+    and add keys to it.
+    '''
     global api_params
     api_params = {
         'access_token': f'{token}'
@@ -21,10 +30,13 @@ class xfl:
         self.token = token
         pass
 
-    def list_players(self):
+    # get_players returns a dataframe of all players in the xfl
+    # regardless of injury status. The primary key is 'OfficialId'
+    def get_players(self):
         url = self.url
 
         try:
+            # hello api? It's me, Margaret.
             r = requests.get(url, params=api_params)
             r.raise_for_status()
 
@@ -33,8 +45,13 @@ class xfl:
 
             global players
             players = pd.read_json(response)
+
+            # concatenating player first and last name.
             players["Player"] = players['FirstName'].astype(str) + " " + players['LastName']
 
+            # removes extraneous columns from the player data frame.
+            # to add them back, give them some time to say goodbye to their
+            # friends, and then remove them from the list.
             mutate_player_frame = [
                     'FirstName',
                     'LastName',
@@ -52,23 +69,30 @@ class xfl:
                     'SquadId'
                     ]
 
+            # bye felicia.
             [players.pop(col) for col in mutate_player_frame]
+
+            # reordering columns so player name is first.
             cols = list(players.columns)
             cols.reverse()
+            players = players[cols]
 
-            players.iloc[:, []]
-            print(players[cols])
+            # tada! we have a nice dataframe full of players.
+            print(players)
             pass
         except requests.exceptions.HTTPError as err:
             raise SystemExit(err)
 
+    # get_stats_combined retrieves all overall counting stats.
+    # OfficialId is the primary key, and is associated with the same
+    # column in get_players() method.
     def get_stats_combined(self, scope=""):
         url = stats_endpoint
         self.scope = scope
 
+        # Told you we'd be updating this dictionary later.
         scope = {'scope': f'{scope}'}
         api_params.update(scope)
-
         try:
             r = requests.get(url, params=api_params)
             r.raise_for_status()
@@ -85,6 +109,8 @@ class xfl:
             raise SystemExit(err)
         pass
 
+    # get_teams returns a list of all teams.
+    # as usual, OfficialId is the primary key.
     def get_teams(self):
         url = teams_endpoint
 
@@ -95,7 +121,7 @@ class xfl:
             api_response = json.dumps(r.text, indent=4, sort_keys=True)
             response = json.loads(api_response)
 
-            global player_stats
+            global teams
             teams = pd.read_json(response).fillna(0)
 
             print(teams)
@@ -104,20 +130,15 @@ class xfl:
             raise SystemExit(err)
         pass
 
-        pass
 
+# x gon' give it to ya.
+x = xfl(token)
 
-# create a new instance of the xfl-api object
-xfl = xfl(token)
-
-# list all players in the XFL (returns as a pandas data frame)
-players = xfl.list_players()
+players = x.get_players()
 print(players)
 
-# list all teams
-teams = xfl.get_teams()
+teams = x.get_teams()
 print(teams)
 
-# get combined season stats stats
-player_stats = xfl.get_stats_combined("season")
+player_stats = x.get_stats_combined("season")
 print(player_stats)
