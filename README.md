@@ -1,4 +1,4 @@
-# pyxfl
+# PyXFL v2
 
 Is this officially version 2? It's a pretty substantial change. We have classes now! And a lot less crap in the repo. 
 
@@ -6,30 +6,58 @@ PyXFL is a python class that uses the publicly facing XFL api to retrieve player
 
 The code in this repo is meant purely for *extraction* and makes only minimal attempts to transform and normalize data. It is intended to simplify the process of querying the various XFL stat endpoints and make saving large returns of data easy. 
 
-With that said, it's open source. If you wish to pull this into some kind of visualization library, you do you, fam. <3
 
+# Usage:
+
+Install dependencies:
+
+```
+$ pip -m install requirements.txt
+```
+
+Create a new instance of the XFL class:
+
+```
+x = xfl(token)
+```
+
+Print all XFL players:
+
+```
+players = x.get_players()
+```
+
+Because we're using Pandas, all objects returned are stored as dataframes, making it easy to immediately begin manipulating data as you see fit:
+
+```
+>>> print(type(players))
+
+<class 'pandas.core.frame.DataFrame'>
+```
 
 # FAQ
 
-**What is this?**
+## What?
 
 An attempt to create a library to query the XFL stats API using python. 
 
-**Why are you doing this?**
+## Why are you doing this?
 
 Why indeed.
 
-**How do I contribute?**
+## How do I contribute?
 
 Gitops. Write code. Open PR. 
 
-**Who are you?**
+## Who are you?
 
 Space ghost.
+![space ghost likes his coffee, so do I](https://pbs.twimg.com/media/Dj7aIfxXcAIKnHs.jpg:large)
 
-**Where do I get an API key?**
+## Where do I get an API key?
 
-Not from this repo, that's for starters.    
+Not from this repo, that's for starters.
+
 If you know a thing or two about [troubleshooting APIs via the browser](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_details/index.html), then you're already halfway there.    
 If you don't, then treat this repo like a 'CTF'. Wait..that's a terrible idea.
 

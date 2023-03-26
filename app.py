@@ -103,7 +103,7 @@ class xfl:
             global player_stats
             player_stats = pd.read_json(response).fillna(0)
 
-            print(player_stats)
+            print(type(player_stats))
             pass
         except requests.exceptions.HTTPError as err:
             raise SystemExit(err)
