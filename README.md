@@ -1,27 +1,18 @@
 # pyxfl
 
-Gathering XFL statistics and data from the (probably not intended to be) public XFL api endpoint. This will eventually turn into a python library to query XFL stats.
-This is a work in progress. Made by a proud lifelong DC Defenders fan. 
+Is this officially version 2? It's a pretty substantial change. We have classes now! And a lot less crap in the repo.
 
-An airtable of the data pulled can be found here: https://airtable.com/shrjXunlZHy3ga31c/tbla5XrrYw6c0IkHE/viwnRJfoXpP4SBJ3L
 
-Be gentle.
+# FAQ
 
-Be kind. #SHIELDSUP. 
+**What is this?**
+An attempt to create a library to query the XFL stats API using python. 
 
-## FAQ:
+**Why are you doing this?**
+Why indeed.
 
-1. What is this?
+**How do I contribute?**
+Gitops. Write code. Open PR. 
 
-See above.
-
-2. Why are you doing this?
-
-Because I wanted to. And the XFL's stats page is kind of basic. And I wanted to see if I could.
-
-3. What do I do with this?
-
-Whatever you want. See also: License.md
-
-4. What's next?
-I'm aware things are kind of basic af right now, and the single "fetch_players.py" file is probably jank. I got things to improve this coming up. Feel free to clone or fork. Currently not accepting merge requests (but this will change once I've worked on this some more)
+**Who are you?**
+Space ghost.
