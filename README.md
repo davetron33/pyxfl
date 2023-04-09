@@ -6,6 +6,8 @@ PyXFL is a python class that uses the publicly facing XFL api to retrieve player
 
 The code in this repo is meant purely for *extraction* and makes only minimal attempts to transform and normalize data. It is intended to simplify the process of querying the various XFL stat endpoints and make saving large returns of data easy. 
 
+# Demo dashboard:
+A (work in progress) dashboard showcasing the use of this data can be found [here](https://app.hex.tech/7c7ec0d1-7123-40af-aa5f-db65e17670f2/app/f4bca27b-b99d-497f-aa93-3d63ea568562/latest). This dashboard is for educational purposes only. 
 
 # Usage:
 
