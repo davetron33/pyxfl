@@ -4,4 +4,6 @@ scratch.py
 .idea
 *.db
 *processed_data/
-*raw_data/
+*data/
+*.sql
+*gcp*
